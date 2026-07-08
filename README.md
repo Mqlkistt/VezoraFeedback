@@ -45,4 +45,4 @@ target/VezoraFeedback-x.x.x.jar
 
 
 ## https://guns.lol/malkistt
-## https://dsc.gg/vezora)
+## https://dsc.gg/vezora
