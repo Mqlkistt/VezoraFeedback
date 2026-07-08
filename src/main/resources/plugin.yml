@@ -1,0 +1,19 @@
+name: VezoraFeedback
+version: 1.0.0
+main: dev.malkist.vezorafeedback.VezoraFeedback
+api-version: '1.21'
+author: Malkistt
+website: https://vezora.my.id
+
+commands:
+  feedback:
+    description: Open Feedback Menu
+    usage: /feedback
+
+  feedback admin:
+    description: Feedback Admin Panel
+    permission: vezora.feedback.admin
+
+permissions:
+  vezora.feedback.admin:
+    default: op
