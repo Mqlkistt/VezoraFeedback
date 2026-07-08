@@ -43,6 +43,6 @@ The compiled JAR will be located in:
 target/VezoraFeedback-x.x.x.jar
 ```
 
-## dsc.gg/vezora
+
 ## https://guns.lol/malkistt
-https://dsc.gg/vezora)
+## https://dsc.gg/vezora)
